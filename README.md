@@ -3,10 +3,10 @@
 A simple shooting game using graphics library in C programming.
 
 ## Screenshots
-<img src="https://github.com/firebolt7/BombDrop/blob/master/media/1.png" title="Bomb_drop" alt="Bomb_drop">
-<img src="https://github.com/firebolt7/BombDrop/blob/master/media/2.png" title="Bomb_drop" alt="Bomb_drop">
-<img src="https://github.com/firebolt7/BombDrop/blob/master/media/3.png" title="Bomb_drop" alt="Bomb_drop">
-<img src="https://github.com/firebolt7/BombDrop/blob/master/media/4.png" title="Bomb_drop" alt="Bomb_drop">
+<img src="https://github.com/firebolt7/BombDrop/blob/master/media/1.png" title="Bomb_drop" alt="Bomb_drop" width="300" height="220">
+<img src="https://github.com/firebolt7/BombDrop/blob/master/media/2.png" title="Bomb_drop" alt="Bomb_drop" width="300" height="220">
+<img src="https://github.com/firebolt7/BombDrop/blob/master/media/3.png" title="Bomb_drop" alt="Bomb_drop" width="300" height="220">
+<img src="https://github.com/firebolt7/BombDrop/blob/master/media/4.png" title="Bomb_drop" alt="Bomb_drop" width="300" height="220">
 
 
 <img src="https://github.com/firebolt7/BombDrop/blob/master/media/bomb_drop.gif" title="Bomb_drop" alt="Bomb_drop">
