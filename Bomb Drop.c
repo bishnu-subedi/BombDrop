@@ -36,7 +36,7 @@ setcolor(3);
 settextstyle(DEFAULT_FONT,HORIZ_DIR,3);
 	outtextxy(225,240,"BOMB DROP");
 settextstyle(DEFAULT_FONT,HORIZ_DIR,1);
-	outtextxy(420,440,"Developed by: BISHNU SUBEDI");
+	outtextxy(420,440,"Developed by: BS");
 	while( !kbhit() )
 	{
 		sound( octave[ random(7) ]*4 );
@@ -74,7 +74,7 @@ settextstyle(DEFAULT_FONT,HORIZ_DIR,3);
 outtextxy(225,240,"BOMB DROP");
 
 settextstyle(DEFAULT_FONT,HORIZ_DIR,1);
-outtextxy(420,440,"Developed by: BISHNU SUBEDI");
+outtextxy(420,440,"Developed by: BS");
 
 settextstyle(DEFAULT_FONT,HORIZ_DIR,2);
 outtextxy(35,340,"Press any key to START the game..");
